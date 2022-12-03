@@ -1,0 +1,23 @@
+const data = [
+"Ameise", 
+"Katze", 
+"Hund" ,
+"Kriegsverbrecher", 
+"Drogendealer", 
+"Rentner", 
+"Renter", 
+"Zufällige Person",
+"Dein Haustier", 
+"Supermarkt Verkäufer",
+"Lehrer",
+"Berühmter Dichter", 
+"Kriegsheld",
+"Milliardär", 
+"Berühmte Persönlichkeit", 
+"Kleinkind", 
+"Mutter", 
+"Wichtiger Politiker", 
+"Wichtiger Wissenschaftler", 
+"Naher Verwandter", 
+"Dein Bester Freund"
+]
